@@ -1,5 +1,5 @@
 These files must be installed in the folder located above 'Downloads',
-You must have the file names 'fileList' in this same directory (the directory
+You must have the stations 'fileList' for the year in this same directory (the directory
 below users)
 Or add it to where your jupyter notebook directory opens to, as that is where
 it should be.
