@@ -1,4 +1,4 @@
-These files must be installed in the folder located above 'Desktop', other
+These files must be installed in the folder located above 'Downloads', other
 You must have the file names 'fileList' in this same directory (the directory
 below users)
 Or add it to where your jupyter notebook directory opens to, as that is where
