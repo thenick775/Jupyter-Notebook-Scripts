@@ -14,4 +14,4 @@ should be able to install them
 2. if its there, "conda install XXXXX"
 
 Notes: current sample list is for station qsec for 2018
-       extension is csv for now for testing purposes
+       current extension is .18m, this represents the year (can be found in fileList or in the origional source files extension)
